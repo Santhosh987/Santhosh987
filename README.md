@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Santhosh Subramanian V</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 
-- 🔭 I’m currently working on **Full Stack web Development projects**
+🔭 I’m currently working on **Full-Stack Web Development projects**  
 
-- 🌱 I’m currently learning **Backend Framworks**
+🌱 I’m currently learning **Backend Frameworks**  
 
-- 👯 I’m looking to collaborate on **Full time Work**
+👯 I’m looking to collaborate on **full-time opportunities**  
 
-- 🤝 I’m looking for help with **Devops**
+🤝 I’m looking for guidance in **DevOps**  
 
-- 📫 How to reach me **sanmac123456@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
