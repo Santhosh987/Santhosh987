@@ -1,21 +1,120 @@
 <h1 align="center">Hi 👋, I'm Santhosh Subramanian V</h1>
-<h3 align="center">A passionate Fullstack Developer from India</h3>
 
-🔭 I’m currently working on **Full-Stack Web Development projects**  
+<h3 align="center">Entry-Level DevOps Engineer | Cloud & Automation Enthusiast</h3>
 
-🌱 I’m currently learning **Backend Frameworks**  
-
-👯 I’m looking to collaborate on **full-time opportunities**  
-
-🤝 I’m looking for guidance in **DevOps**  
-
-**HERE YOU CAN FIND SOME OF MY WORKS**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/santhosh-subramanian-v/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santhosh-subramaninam-v-01a29a158/" height="30" width="40" /></a>
+<p align="center">
+  AWS • Linux • Docker • Kubernetes • Terraform • Jenkins • Argo CD
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 About Me
+
+🔭 I’m currently building **DevOps and Cloud Infrastructure projects**
+
+🌱 I’m continuously learning and improving my skills in **AWS, Kubernetes, Terraform, CI/CD and Cloud Automation**
+
+☁️ I’m interested in **Cloud Infrastructure, Infrastructure as Code, Containerization and Kubernetes**
+
+⚙️ I’m working with **Jenkins, Argo CD and Docker** to understand automated CI/CD and deployment workflows
+
+📊 I’m exploring **Prometheus and Grafana** for monitoring and observability
+
+🔐 I’m learning and applying **SonarQube** for code quality and CI/CD integration
+
+🐧 Comfortable working with **Linux-based environments, Bash, AWS CLI, kubectl and eksctl**
+
+👯 I’m looking to collaborate on **DevOps, Cloud and Open Source projects**
+
+💼 I’m actively seeking **Entry-Level DevOps Engineer / Cloud Engineer opportunities**
+
+📫 How to reach me: **sanmac123456@gmail.com**
+
+---
+
+## 🚀 DevOps & Cloud Skills
+
+### ☁️ Cloud
+- AWS
+- EC2
+- VPC
+- IAM
+- S3
+- EKS
+- CloudWatch
+
+### ⚙️ DevOps & CI/CD
+- Jenkins
+- Argo CD
+- CI/CD
+- SonarQube
+
+### 🐳 Containers & Orchestration
+- Docker
+- Kubernetes
+- Docker Compose
+
+### 🏗️ Infrastructure as Code
+- Terraform
+
+### 📊 Monitoring & Observability
+- Prometheus
+- Grafana
+- AWS CloudWatch
+
+### 🐧 Operating Systems & Scripting
+- Linux
+- Bash / Shell Scripting
+
+### 🔧 Version Control
+- Git
+- GitHub
+
+---
+
+## 🚀 Featured DevOps Projects
+
+### 1️⃣ AWS Infrastructure Provisioning & EKS Deployment
+
+**Terraform | AWS | VPC | EC2 | IAM | EKS | Kubernetes | Docker | Linux | AWS CLI | eksctl | kubectl**
+
+- Provisioned AWS infrastructure using **Terraform**, including VPC, subnets, EC2 instances, security groups and IAM resources.
+- Configured Linux-based EC2 environments and installed **AWS CLI, eksctl and kubectl**.
+- Created an **Amazon EKS cluster using eksctl** from the configured EC2 environment.
+- Deployed and managed Kubernetes applications using **Deployments and Services**.
+- Applied **Infrastructure as Code (IaC)** principles to improve infrastructure consistency.
+
+### 2️⃣ Automated CI/CD Pipeline using Jenkins & Docker
+
+**GitHub | Jenkins | Docker | AWS | Linux | CI/CD**
+
+- Built an automated **CI/CD pipeline using Jenkins and GitHub**.
+- Automated application builds and Docker image creation.
+- Containerized applications using **Docker** for consistent deployment.
+- Integrated source control, automated builds, Docker image creation and AWS deployment into the CI/CD workflow.
+
+---
+
+## 🛠️ Development Background
+
+I also have a background in full-stack web development, which helps me understand applications from the development side and how they move through the deployment lifecycle.
+
+**Technologies:**
+
+React.js • Node.js • Express.js • MongoDB • PostgreSQL • REST APIs • HTML5 • CSS • JavaScript
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/santhosh-subramanian-v/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+### 🎯 Career Goal
+
+I’m looking to start my career as a **DevOps Engineer / Cloud Engineer**, where I can apply my knowledge of cloud infrastructure, automation, containers, Kubernetes and CI/CD while continuously developing my skills in modern DevOps practices.
