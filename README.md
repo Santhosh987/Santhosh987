@@ -16,6 +16,7 @@
 - 🏗️ Automating infrastructure using Terraform
 - 🔧 Working with Jenkins, GitHub Actions, Linux, Git and Bash
 - 📈 Building hands-on projects focused on deployment, automation and monitoring
+- 🎯 Seeking opportunities to contribute to DevOps and Cloud infrastructure teams
 
 ---
 
@@ -79,8 +80,6 @@ Building a monitoring stack for Kubernetes workloads and application infrastruct
 
 **Status:** In Progress
 
----
-
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -97,12 +96,6 @@ Building a monitoring stack for Kubernetes workloads and application infrastruct
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </p>
-
----
-
-## 🎯 Career Focus
-
-Seeking opportunities as a **DevOps Engineer / Cloud Engineer**, where I can work with cloud infrastructure, CI/CD, containers, Kubernetes and infrastructure automation while continuing to build strong production-oriented skills.
 
 ---
 
