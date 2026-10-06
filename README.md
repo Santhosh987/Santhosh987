@@ -1,35 +1,42 @@
 <h1 align="center">Hi 👋, I'm Santhosh Subramanian</h1>
 
-<h3 align="center">DevOps Engineer | AWS | Kubernetes | Docker | Jenkins | Terraform</h3>
+<h3 align="center">DevOps Engineer | Cloud & Infrastructure | AWS | Kubernetes | CI/CD</h3>
 
 <p align="center">
-  DevOps enthusiast focused on cloud infrastructure, CI/CD, containerization and automation.
+  Building and automating cloud infrastructure, CI/CD pipelines and containerized applications using AWS and modern DevOps tools.
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-- 🎯 Focused on AWS and DevOps
-- ☁️ Working with AWS, Docker and Kubernetes
-- 🔄 Building CI/CD pipelines with Jenkins
-- 🏗️ Automating infrastructure with Terraform
-- 🐧 Comfortable with Linux, Git and Bash
+- ☁️ Focused on Cloud and DevOps engineering
+- 🚀 Building CI/CD pipelines and cloud infrastructure on AWS
+- 🐳 Working with Docker and Kubernetes for containerized applications
+- 🏗️ Automating infrastructure using Terraform
+- 🔧 Working with Jenkins, GitHub Actions, Linux, Git and Bash
+- 📈 Building hands-on projects focused on deployment, automation and monitoring
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 01. Jenkins CI/CD with Docker, GitHub ECR & EKS
+### 01. Jenkins CI/CD Pipeline with Docker, Amazon ECR & Amazon EKS
 
-**AWS · Jenkins · Docker · GitHub · Kubernetes · ECR · EKS**
+**AWS · Jenkins · Docker · Kubernetes · Amazon ECR · Amazon EKS · GitHub**
 
-- Built CI/CD pipeline using Jenkins
-- Configured GitHub webhook triggers
-- Built and versioned Docker images
-- Pushed images to Amazon ECR
-- Deployed application to Amazon EKS
-- Added Kubernetes rollout verification
+Built an automated CI/CD pipeline to test, containerize and deploy a Node.js application to Amazon EKS.
+
+**Key Implementation:**
+
+- Jenkins pipeline with automated build and deployment
+- GitHub webhook integration
+- Docker image build and versioning
+- Amazon ECR image management
+- Kubernetes Deployment and Service
+- Amazon EKS deployment
+- Kubernetes rollout verification
+- AWS IAM role-based access
 
 🔗 [View Project](https://github.com/Santhosh987/jenkins-docker-cicd)
 
@@ -37,13 +44,19 @@
 
 ### 02. AWS Infrastructure Provisioning with Terraform
 
-**AWS · Terraform · VPC · EC2 · IAM**
+**AWS · Terraform · VPC · EC2 · IAM · Networking**
 
-- Provisioned AWS infrastructure using Terraform
-- Created VPC, public/private subnets and route tables
-- Configured Internet Gateway and NAT Gateway
-- Provisioned EC2 and security groups
-- Managed infrastructure using Terraform
+Built AWS infrastructure using Terraform with a focus on repeatable and automated provisioning.
+
+**Key Implementation:**
+
+- VPC and subnet configuration
+- Public and private networking
+- Internet Gateway and NAT Gateway
+- Route tables and security groups
+- EC2 provisioning
+- Terraform variables and outputs
+- Infrastructure lifecycle management
 
 🔗 Repository coming soon
 
@@ -51,12 +64,18 @@
 
 ### 03. Kubernetes Monitoring Stack
 
-**Kubernetes · Prometheus · Grafana · AWS**
+**AWS · Kubernetes · Prometheus · Grafana**
 
-- Deploying Prometheus for Kubernetes monitoring
-- Configuring Grafana dashboards
-- Monitoring cluster and application metrics
-- Exploring alerts and resource monitoring
+Building a monitoring stack for Kubernetes workloads and application infrastructure.
+
+**Key Implementation:**
+
+- Prometheus deployment
+- Kubernetes metrics collection
+- Grafana dashboards
+- Resource monitoring
+- Application monitoring
+- Alerting fundamentals
 
 **Status:** In Progress
 
@@ -78,9 +97,16 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </p>
+
 ---
 
-## Connect
+## 🎯 Career Focus
+
+Seeking opportunities as a **DevOps Engineer / Cloud Engineer**, where I can work with cloud infrastructure, CI/CD, containers, Kubernetes and infrastructure automation while continuing to build strong production-oriented skills.
+
+---
+
+## 📫 Connect With Me
 
 - GitHub: [Santhosh987](https://github.com/Santhosh987)
 - LinkedIn: [santhosh-subramanian-v](https://www.linkedin.com/in/santhosh-subramanian-v)
