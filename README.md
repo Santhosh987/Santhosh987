@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00D1F7&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%7C+AWS+%7C+Kubernetes+%7C+Docker;Building+CI%2FCD+Pipelines+with+Jenkins;Infrastructure+as+Code+with+Terraform;Learning+%7C+Building+%7C+Sharing+in+Public" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Santhosh Subramanian</h1>
 
 <h3 align="center">DevOps Engineer | Cloud & Infrastructure | AWS | Kubernetes | CI/CD</h3>
