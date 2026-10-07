@@ -1,14 +1,12 @@
+
+# Santhosh Subramanian | Cloud & DevOps Engineer
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00D1F7&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%7C+AWS+%7C+Kubernetes+%7C+Docker;Building+CI%2FCD+Pipelines+with+Jenkins;Infrastructure+as+Code+with+Terraform;Learning+%7C+Building+%7C+Sharing+in+Public" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00D1F7&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%7C+AWS+%7C+Kubernetes+%7C+Docker+%7C+Jenkins;Building+CI%2FCD+Pipelines;Infrastructure+as+Code+with+Terraform;Learning+%7C+Building+%7C+Sharing" alt="Typing SVG" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Santhosh Subramanian</h1>
-
-<h3 align="center">DevOps Engineer | Cloud & Infrastructure | AWS | Kubernetes | CI/CD</h3>
-
-<p align="center">
+<h6 align="center">
   Building and automating cloud infrastructure, CI/CD pipelines and containerized applications using AWS and modern DevOps tools.
-</p>
+</h6>
 
 ---
 
@@ -32,7 +30,7 @@
 
 Built an automated CI/CD pipeline to test, containerize and deploy a Node.js application to Amazon EKS.
 
-**Key Implementation:**
+**What I Implemented:**
 
 - Jenkins pipeline with automated build and deployment
 - GitHub webhook integration
@@ -53,7 +51,7 @@ Built an automated CI/CD pipeline to test, containerize and deploy a Node.js app
 
 Built AWS infrastructure using Terraform with a focus on repeatable and automated provisioning.
 
-**Key Implementation:**
+**What I Implemented:**
 
 - VPC and subnet configuration
 - Public and private networking
@@ -73,7 +71,7 @@ Built AWS infrastructure using Terraform with a focus on repeatable and automate
 
 Building a monitoring stack for Kubernetes workloads and application infrastructure.
 
-**Key Implementation:**
+**What I Implemented:**
 
 - Prometheus deployment
 - Kubernetes metrics collection
