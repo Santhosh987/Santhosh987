@@ -61,7 +61,7 @@ Built AWS infrastructure using Terraform with a focus on repeatable and automate
 - Terraform variables and outputs
 - Infrastructure lifecycle management
 
-🔗 [View Project](https://github.com/Santhosh987/terraform-aws-infrastructure.git)
+🔗 [View Project](https://github.com/Santhosh987/terraform-aws-infrastructure.git )
 
 ---
 
