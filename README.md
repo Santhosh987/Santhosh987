@@ -80,7 +80,7 @@ Building a monitoring stack for Kubernetes workloads and application infrastruct
 - Application monitoring
 - Alerting fundamentals
 
-**Status:** In Progress
+🔗 [View Project](https://github.com/Santhosh987/kubernetes-cicd-monitoring-stack )
 
 ## 🛠️ Tech Stack
 
