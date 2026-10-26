@@ -24,63 +24,61 @@
 
 ## 🚀 Featured Projects
 
-### 01. Jenkins CI/CD Pipeline with Docker, Amazon ECR & Amazon EKS
+### 01. Kubernetes CI/CD & Monitoring Stack on AWS
 
-**AWS · Jenkins · Docker · Kubernetes · Amazon ECR · Amazon EKS · GitHub**
+**AWS · GitHub Actions · Docker · Amazon ECR · Amazon EKS · Helm · Prometheus · Grafana**
 
-Built an automated CI/CD pipeline to test, containerize and deploy a Node.js application to Amazon EKS.
+Built an end-to-end DevOps project automating application deployment to Amazon EKS using GitHub Actions, with Prometheus and Grafana for Kubernetes monitoring.
 
 **What I Implemented:**
 
-- Jenkins pipeline with automated build and deployment
-- GitHub webhook integration
-- Docker image build and versioning
-- Amazon ECR image management
-- Kubernetes Deployment and Service
-- Amazon EKS deployment
-- Kubernetes rollout verification
-- AWS IAM role-based access
+- Automated CI/CD workflow using GitHub Actions
+- Configured GitHub OIDC federation with AWS IAM roles to access AWS without storing long-lived AWS credentials
+- Built Docker images and pushed them to Amazon ECR
+- Validated Helm charts and deployed applications to Amazon EKS
+- Configured Kubernetes Ingress with an AWS Application Load Balancer to expose the website and Grafana
+- Deployed Prometheus and Grafana for Kubernetes workload monitoring
+- Created Grafana dashboards to track pod readiness, CPU usage, and memory usage
+
+🔗 [View Project](https://github.com/Santhosh987/kubernetes-cicd-monitoring-stack)
+
+---
+
+### 02. Jenkins CI/CD Pipeline with Docker, Amazon ECR & Amazon EKS
+
+**AWS · Jenkins · Docker · Amazon ECR · Amazon EKS · Kubernetes · GitHub Webhooks**
+
+Built an automated CI/CD pipeline to test, containerize, and deploy a Node.js application to Amazon EKS.
+
+**What I Implemented:**
+
+- Created a Jenkins pipeline for application checkout, testing, Docker image building, and ECR image push
+- Integrated GitHub webhooks to trigger pipeline execution automatically
+- Tagged Docker images with build numbers for traceability
+- Pushed container images to Amazon ECR
+- Deployed the application using Kubernetes Deployment and Service resources
+- Verified deployment status using `kubectl rollout status`
 
 🔗 [View Project](https://github.com/Santhosh987/jenkins-docker-cicd)
 
 ---
 
-### 02. AWS Infrastructure Provisioning with Terraform
+### 03. AWS Infrastructure Provisioning Using Terraform
 
-**AWS · Terraform · VPC · EC2 · IAM · Networking**
+**AWS · Terraform · VPC · EC2 · Networking · Infrastructure as Code**
 
-Built AWS infrastructure using Terraform with a focus on repeatable and automated provisioning.
-
-**What I Implemented:**
-
-- VPC and subnet configuration
-- Public and private networking
-- Internet Gateway and NAT Gateway
-- Route tables and security groups
-- EC2 provisioning
-- Terraform variables and outputs
-- Infrastructure lifecycle management
-
-🔗 [View Project](https://github.com/Santhosh987/terraform-aws-infrastructure.git )
-
----
-
-### 03. Kubernetes Monitoring Stack
-
-**AWS · Kubernetes · Prometheus · Grafana**
-
-Building a monitoring stack for Kubernetes workloads and application infrastructure.
+Provisioned AWS networking and compute resources using Terraform, focusing on repeatable infrastructure deployment and state management.
 
 **What I Implemented:**
 
-- Prometheus deployment
-- Kubernetes metrics collection
-- Grafana dashboards
-- Resource monitoring
-- Application monitoring
-- Alerting fundamentals
+- Created a VPC and configured subnets
+- Configured an Internet Gateway and NAT Gateway
+- Allocated an Elastic IP and configured security groups
+- Provisioned EC2 instances using Terraform
+- Organized configuration using `variables.tf`, `terraform.tfvars`, and `outputs.tf`
+- Configured an S3 remote backend for Terraform state management
 
-🔗 [View Project](https://github.com/Santhosh987/kubernetes-cicd-monitoring-stack )
+🔗 [View Project](https://github.com/Santhosh987/terraform-aws-infrastructure)
 
 ## 🛠️ Tech Stack
 
